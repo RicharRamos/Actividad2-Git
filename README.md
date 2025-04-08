@@ -1,37 +1,21 @@
-# Actividad 2 - Git y GitHub (Colaboración y ramas)
+Actividad Grupal
+Curso: Técnicas de Programación Orientada a Objetos
+Actividad: Actividad 2 – Uso de Git y GitHub
+Repositorio: https://github.com/RicharRamos/Actividad2-Git
 
-Este repositorio contiene la actividad práctica sobre ramas, colaboración y resolución de conflictos usando Git y GitHub, correspondiente a la asignatura de Técnicas de Programación Orientada a Objetos.
+Contenido entregado:
 
----
+Configuración del repositorio local y remoto.
 
-## ¿Qué hice en esta actividad?
+Creación y cambio de ramas (main y colaboracion).
 
-1. Creé una nueva rama para trabajar de forma aislada.
-2. Hice cambios en la nueva rama.
-3. Usé 'git merge' para fusionar con la rama principal.
-4. Resolví conflictos cuando ocurrieron.
-5. Trabajé en un repositorio compartido.
-6. Usé Pull Requests en GitHub.
-7. Comenté y aprobé cambios de otros.
-8. Subí toda la evidencia.
+Modificación del archivo colaboradores.txt en la rama colaboracion.
 
----
+Uso de git merge para integrar los cambios a main.
 
-## Archivos incluidos
+Evidencias del trabajo realizadas paso a paso (capturas).
 
-- 'guia_git.txt': Comandos utilizados en esta actividad.
-- 'informe.txt': Reflexión y conclusión de la actividad.
-- 'actividad2.png': Imagen de evidencia.
-- 'README.md': Este archivo.
+Informe en el archivo informe.txt detallando cada paso del proceso.
 
----
-
-## Enlace al repositorio
-
-[https://github.com/RicharRamos/Actividad2-Git.git](https://github.com/RicharRamos/Actividad2-Git.git)
-
----
-
-## Licencia
-
-Este proyecto es parte de una práctica académica de la Universidad Privada del Norte.
+Quedo atento(a) a cualquier observación.
+Saludos cordiales.
