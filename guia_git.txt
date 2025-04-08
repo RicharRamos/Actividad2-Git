@@ -23,6 +23,6 @@ git push origin main
 // Subir cambios a GitHub
 
 // Colaboración
-// Invitar como colaborador en GitHub
+// colaboradoren en GitHub
 // Clonar repo: git clone https://github.com/RicharRamos/Actividad2-Git.git
 // Pull request: Desde GitHub, comparar y unir ramas

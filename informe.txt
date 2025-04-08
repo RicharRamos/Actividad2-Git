@@ -1,13 +1,13 @@
 # Informe de la Actividad 2
 
 ## ¿Qué aprendí?
-Aprendí a trabajar con ramas en Git para no afectar la rama principal. Entendí cómo usar 'git merge' y cómo se resuelven los conflictos cuando dos personas editan lo mismo. También practiqué cómo colaborar con otras personas usando GitHub.
+Aprendimos a trabajar con ramas en Git para no afectar la rama principal. Entendimos cómo usar 'git merge' y cómo se resuelven los conflictos cuando dos personas editan lo mismo.
 
 ## ¿Qué dificultades tuve?
-Al principio me costó entender cómo funcionan las ramas, y al hacer el merge tuve un conflicto que me obligó a revisar bien el archivo. Pero luego de seguir los pasos logré solucionarlo.
+Al principio nos costó entender cómo funcionan las ramas, y al hacer el merge tuve un conflicto que me obligó a revisar bien el archivo. Pero luego de seguir los pasos logré solucionarlo.
 
 ## ¿Qué haría diferente?
 Tal vez planificar mejor qué editaría en cada rama para evitar conflictos innecesarios.
 
 ## Conclusión
-La práctica con ramas, merges y GitHub colaborativo me ayudó a entender el trabajo real en equipo que se hace en desarrollo de software.
+La práctica con ramas, merges y GitHub colaborativo nos ayudó a entender el trabajo real en equipo.

@@ -1,0 +1,8 @@
+Actividad Grupal
+Grupo 04
+Nombre: BRYAN MANUEL HUAMAN ROQUE
+Nombre: IVAN POCO CHONQUI
+Nombre: JAIR JUDA HUAMAN RODRIGUEZ
+Nombre: RICHAR RAMOS ROMERO
+
+Probando colaboración con Git y GitHub
