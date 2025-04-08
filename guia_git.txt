@@ -1,0 +1,7 @@
+Informe de Actividad 2 - Git y GitHub
+
+1. Se creó el repositorio local y remoto "Actividad2-Git".
+2. Se creó la rama "colaboracion" y se añadió el archivo "colaboradores.txt".
+3. Se hizo merge de "colaboracion" en "main".
+4. Se añadieron archivos de evidencia, guía y el archivo PDF.
+5. Todos los cambios se subieron correctamente a GitHub.
