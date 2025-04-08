@@ -1,13 +1,9 @@
-# Informe de la Actividad 2
 
-## ¿Qué aprendí?
-Aprendimos a trabajar con ramas en Git para no afectar la rama principal. Entendimos cómo usar 'git merge' y cómo se resuelven los conflictos cuando dos personas editan lo mismo.
+Informe de Actividad 2 - Git y GitHub
 
-## ¿Qué dificultades tuve?
-Al principio nos costó entender cómo funcionan las ramas, y al hacer el merge tuve un conflicto que me obligó a revisar bien el archivo. Pero luego de seguir los pasos logré solucionarlo.
-
-## ¿Qué haría diferente?
-Tal vez planificar mejor qué editaría en cada rama para evitar conflictos innecesarios.
-
-## Conclusión
-La práctica con ramas, merges y GitHub colaborativo nos ayudó a entender el trabajo real en equipo.
+1. Se creó el repositorio local y remoto llamado "Actividad2-Git".
+2. Se creó una rama secundaria llamada "colaboracion".
+3. En la rama "colaboracion" se agregó el archivo "colaboradores.txt".
+4. Se hizo un merge exitoso de "colaboracion" en la rama "main".
+5. Se agregaron los archivos de evidencia, guía y el documento PDF.
+6. Todos los archivos fueron confirmados (commit) y subidos (push) al repositorio en GitHub.
