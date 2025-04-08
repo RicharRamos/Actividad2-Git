@@ -1,7 +1,14 @@
 Informe de Actividad 2 - Git y GitHub
 
-1. Se creó el repositorio local y remoto "Actividad2-Git".
-2. Se creó la rama "colaboracion" y se añadió el archivo "colaboradores.txt".
-3. Se hizo merge de "colaboracion" en "main".
-4. Se añadieron archivos de evidencia, guía y el archivo PDF.
-5. Todos los cambios se subieron correctamente a GitHub.
+1. git init
+2. git remote add origin <URL>
+3. git checkout -b colaboracion
+4. git add colaboradores.txt
+5. git commit -m "Agregado archivo colaboradores.txt"
+6. git push -u origin colaboracion
+7. git checkout main
+8. git merge colaboracion
+9. git push
+10. git add . (para agregar todos los archivos restantes)
+11. git commit -m "Agregado guía, informe y evidencias"
+12. git push
